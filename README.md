@@ -32,13 +32,7 @@ I'm a Senior Software Engineer with a passion for designing and building efficie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  height="30" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="azureSQL"/>
-  
-          
-          
-          
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="azureSQL"/>       
           
 </div>
 
@@ -51,6 +45,11 @@ I'm a Senior Software Engineer with a passion for designing and building efficie
 - Exploring serverless & edge computing on Azure
 
 ---
+
+### Certifications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1225e707-0c02-4711-b8cc-3104b73cfea2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ### 📊 GitHub Stats
 
