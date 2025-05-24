@@ -50,6 +50,21 @@ I'm a Senior Software Engineer with a passion for designing and building efficie
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1225e707-0c02-4711-b8cc-3104b73cfea2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+---
+
+### 🏅 Certifications
+
+- [AZ-900: Microsoft Certified Azure Fundamentals](https://www.credly.com/badges/1225e707-0c02-4711-b8cc-3104b73cfea2)  
+  *Issued by Microsoft · Credential ID: 9BE3AB9C4564F37E*
+
+
+  ![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+
+[![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://www.credly.com/badges/1225e707-0c02-4711-b8cc-3104b73cfea2)
+
+
+
 
 ### 📊 GitHub Stats
 
