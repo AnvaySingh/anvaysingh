@@ -54,12 +54,13 @@ I'm a Senior Software Engineer with a passion for designing and building efficie
 
 
 
-
+<!--
 ### 📊 GitHub Stats
 
 ![Anvay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anvaysingh&show_icons=true&theme=default&hide_title=true)
 
 ---
+-->
 
 ### 📫 Connect with Me
 
